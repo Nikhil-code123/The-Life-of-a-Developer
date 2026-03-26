@@ -87,4 +87,3 @@ life-of-developer/
 
 ---
 
-Built with ☕ × ∞ | Powered by caffeine & ctrl+z
